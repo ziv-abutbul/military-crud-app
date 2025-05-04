@@ -17,7 +17,7 @@ ListOfSoldiers/
 ├── db.sqlite3
 ├── manage.py
 ├── Env/                # Virtual environment
-├── front-end/          # Angular front-end
+├── front-endd/          # Angular front-end
 ├── ListOfSoldiers/     # Django project settings
 ├── SoldierApp/         # Django app for soldier management
 ```
