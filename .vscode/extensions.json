@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+      "ms-python.python",
+      "batisteo.vscode-django",
+      "bibhasdn.django-html",
+      "ms-python.isort",
+      "ms-python.black-formatter",
+      "njpwerner.autodocstring",
+      "cweijan.vscode-postgresql",
+      "mtxr.sqltools",
+      "ms-vscode.vscode-typescript-next",
+      "angular.ng-template",
+      "esbenp.prettier-vscode",
+      "johnpapa.angular-essentials",
+      "bradlc.vscode-tailwindcss",
+      "christian-kohler.path-intellisense",
+      "humao.rest-client",
+      "eamodio.gitlens",
+      "coenraads.bracket-pair-colorizer-2"
+    ]
+  }
+  
