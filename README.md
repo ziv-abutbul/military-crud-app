@@ -1,4 +1,6 @@
 # ListOfSoldiers
+![Screenshot 2025-05-04 164019](https://github.com/user-attachments/assets/010bc8c9-fc84-4523-8bd3-07c20150dbda)
+![Screenshot 2025-05-04 164400](https://github.com/user-attachments/assets/15626924-ad3a-43f5-a81a-61c2f22f7bb7)
 
 ## Overview
 ListOfSoldiers is a web application designed to manage soldier information. It is built using Django for the back-end and Angular for the front-end. The application uses a MySQL database to store soldier data.
